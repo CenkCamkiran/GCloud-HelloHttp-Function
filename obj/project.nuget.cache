@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "x202Xsp6Omi7mL0WBqWWP4HhR7BcoxxCJeaTyVG5sarPjcM0pwvu/eW9XxVRUlmrhnUA3PA1Zbpv1/T71EtAUA==",
+  "dgSpecHash": "wXtXlo9kOEbS/EJIjaDLchDY3rZsqNPbFxpM5LmB8/YngRb72JvbO65NNOpllIJPsnDdsMa7dwC7OSmmq2Kf+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\camki\\Desktop\\Kişisel\\Google Cloud\\Projects\\HelloFunctions\\HelloFunctions.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,10 @@
     "C:\\Users\\camki\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\camki\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\camki\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
-    "C:\\Users\\camki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\camki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\camki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\camki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\camki\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
