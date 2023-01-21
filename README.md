@@ -38,7 +38,7 @@ Please refer this link: <https://github.com/GoogleCloudPlatform/functions-framew
 
 Deployment is simple, drag and drop the zip file of project. The screenshot is below:
 
-<img src="./DeployFunction.png" />
+<img src="./GCloudFuncConfig.png" />
 
 ## Contributing
 
