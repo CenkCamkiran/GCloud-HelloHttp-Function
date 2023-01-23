@@ -16,6 +16,7 @@ Build Simple HelloWorld GCloud Function via GCloud.
   - [Contents](#contents)
   - [Features](#features)
   - [Requirements](#requirements)
+  - [Structure](#structure)
   - [Installation of GCloud Function](#installation-of-gcloud-function)
   - [Deployment](#deployment)
   - [Contributing](#contributing)
@@ -29,6 +30,17 @@ Build Simple HelloWorld GCloud Function via GCloud.
 ## Requirements
 
 > GCloud Account
+
+## Structure
+
+```bash
+|   .gitignore //gitignore file
+|   Function.cs // Main Function file
+|   GCloudFuncConfig.png //Picture for Readme file
+|   HelloFunctions.csproj //Dotnet project file
+|   HelloFunctions.sln //Dotnet solution file
+|   README.md
+```
 
 ## Installation of GCloud Function
 
