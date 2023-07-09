@@ -63,5 +63,3 @@ Please use the Github issues.
 ## RoadMap
 
 - In the Future, i am planning to improve myself on Google Cloud Functions.
-
-<!---->
